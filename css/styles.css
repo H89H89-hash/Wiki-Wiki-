@@ -10,6 +10,9 @@
  * Copyright 2011-2021 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+.navbar navbar-expand-lg navbar-light fixed-top {
+  background-color: rgba(0, 0, 0, 0.479);
+}
 .text-white mb-5 {
   font-family: Oswald;
 }
@@ -11424,7 +11427,7 @@ body {
 
 #mainNav {
   min-height: 3.5rem;
-  background-color: #fff;
+  background-color: #00000073;
 }
 #mainNav .navbar-toggler {
   font-size: 80%;
